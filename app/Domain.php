@@ -8,5 +8,5 @@ class Domain extends Model
 {
     protected $table = 'domains';
     protected $fillable = [
-        'name','ip','geo_domain','start_contract','years'];
+        'name','ip','geo_domain','start_contract','years'] ;
 }
